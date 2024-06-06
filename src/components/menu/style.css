@@ -1,0 +1,30 @@
+.container-menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #FFBD14;
+}
+.container-menu a{
+  color : #fff;
+  background-color: #222;
+  padding: 10px;
+}
+.container-menu h3{
+  font-size: 23px;
+  font-weight: 700;
+  margin: 10px 0;
+  margin: 0 auto; /* Centers the h3 within the flex container */
+  position: absolute; /* Position absolute */
+  left: 50%; /* Move it to the horizontal center */
+  transform: translateX(-50%); /* Adjust for its own width */
+}
+.container-menu-home{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 0;
+  
+}
+.container-menu-home h3{
+  position: static ;
+}
