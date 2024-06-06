@@ -1,0 +1,18 @@
+.container-card-secundario{
+  display: flex;
+  align-items: center;
+  
+  cursor: pointer;
+  
+}
+.container-card-secundario h3{
+  font-size: 15px;
+  font-weight: 700;
+  margin: 0 5px;
+  max-width: 260px;
+
+}
+.categorie-bar{
+  width: 5px;
+  height: 40px;
+}
