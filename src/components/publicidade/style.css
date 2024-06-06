@@ -1,0 +1,21 @@
+.publicidade{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+
+  background-color: #EBEFF1;
+  height: 200px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  border-radius: 20px;
+}
+.publicidade h2{
+
+  font-size: 33px;
+  font-weight: 700;
+  line-height: 42.9px;
+  text-align: center;
+  color: #00000033;
+
+}
