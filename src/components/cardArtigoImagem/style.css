@@ -1,0 +1,31 @@
+.container-card-imagem{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  cursor: pointer;
+  max-width: 380px;
+  max-height: 90%;
+  
+}
+.container-card-imagem img{
+  max-width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 20px;
+
+} 
+.container-card-imagem span{
+  margin: 10px 0;
+  font-weight: 700;
+}
+.container-card-imagem h3{
+  font-size: 18px;
+  font-weight: 700;
+  margin: 0;
+  max-width: 250px;
+
+}
+.categorie-bar{
+  width: 5px;
+  height: 40px;
+}
