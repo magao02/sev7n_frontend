@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este projeto foi criado para simular um portal de noticias que consome os dados do backend lembrando que é necessário que o backend esteja rodando na porta 3100 para que o projeto funcione
 
 ## Available Scripts
 
